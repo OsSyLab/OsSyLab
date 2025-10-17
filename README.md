@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/OsSyLab/OsSyLab/blob/main/Ads%C4%B1z%20tasar%C4%B1m.png" alt="Data Solutions Lab Banner" width="100%">
+  <img src="https://github.com/OsSyLab/OsSyLab/blob/f6c351af680f25e4d60b8c8b25227dde4429c1e4/3.png" alt="Data Solutions Lab Banner" width="100%">
 </p>
 
 
