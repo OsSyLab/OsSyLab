@@ -36,6 +36,7 @@ I'm passionate about creating automation tools, Excel dashboards, and Python-bas
 ### 📁 Featured Projects
 - 📘 [Excel VBA Macros Collection](https://github.com/OsSyLab/Excel-VBA-Macros) — 20 ready-to-use Excel automation tools
 - 🐍 [Excel-Python Integration Toolkit](https://github.com/OsSyLab/Python-Automation-Tools) – upcoming hybrid automation examples.
+- [📄 Automatic Report Generator](https://github.com/OsSyLab/Excel-VBA-Macros/tree/main/Automatic_Report_Generator) – one-click PDF & Excel report automation tool
 - 🧮 Python Data Automation Scripts *(coming soon...)*  
 
 ---
