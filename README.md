@@ -1,10 +1,14 @@
-![Banner](https://github.com/OsSyLab/OsSyLab/blob/main/Ads%C4%B1z%20tasar%C4%B1m.png)
-<br>
+<p align="center">
+  <img src="https://github.com/OsSyLab/OsSyLab/blob/main/Ads%C4%B1z%20tasar%C4%B1m.png" alt="Data Solutions Lab Banner" width="100%">
+</p>
 
 
 # 👋 Hi, I'm Osman Uluhan (OsSy)
 
 **💡 Data Engineer | Freelance Excel & Python Automation Specialist**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-FFB800?logo=zapier&logoColor=white)
 
 I'm passionate about creating automation tools, Excel dashboards, and Python-based data solutions that make workflows smarter and faster.
 
@@ -28,7 +32,8 @@ I'm passionate about creating automation tools, Excel dashboards, and Python-bas
 ---
 
 ### 📁 Featured Projects
-- 📘 [Excel VBA Macros Collection](https://github.com/OsSyLab/Excel-VBA-Macros) — 20 ready-to-use Excel automation tools  
+- 📘 [Excel VBA Macros Collection](https://github.com/OsSyLab/Excel-VBA-Macros) — 20 ready-to-use Excel automation tools
+- 🐍 [Excel-Python Integration Toolkit](#) — upcoming hybrid automation examples.
 - 🧮 Python Data Automation Scripts *(coming soon...)*  
 
 ---
