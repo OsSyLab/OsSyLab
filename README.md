@@ -6,9 +6,11 @@
 # 👋 Hi, I'm Osman Uluhan (OsSy)
 
 **💡 Data Engineer | Freelance Excel & Python Automation Specialist**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-FFB800?logo=zapier&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/Automation-FFB800?logo=zapier&logoColor=white">
+</p>
 
 I'm passionate about creating automation tools, Excel dashboards, and Python-based data solutions that make workflows smarter and faster.
 
