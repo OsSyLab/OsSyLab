@@ -38,7 +38,7 @@ I'm passionate about creating automation tools, Excel dashboards, and Python-bas
 🌐 [upwork.com/freelancers/~0184d2c29264d3dcf2](https://www.upwork.com/freelancers/~0184d2c29264d3dcf2)
 
 🔹 **LinkedIn:**  
-💼 [linkedin.com/in/osmanuluhan](https://www.linkedin.com/in/osmanuluhan)
+💼 [linkedin.com/in/osmanuluhan](https://www.linkedin.com/in/osman-nuri-uluhan-9a950a390)
 
 🔹 **X (Twitter):**  
 🧠 [@OsSy_Lab](https://x.com/OsSy_Lab)
