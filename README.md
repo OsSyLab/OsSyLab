@@ -26,9 +26,23 @@ I'm passionate about creating automation tools, Excel dashboards, and Python-bas
 ---
 
 ### 🌍 Connect With Me
-🔗 [**GitHub**](https://github.com/OsSyLab)  
-💼 [**Upwork Profile**](https://www.upwork.com/freelancers/~0184d2c29264d3dcf2)  
-🎯 [**Fiverr Profile**](https://www.fiverr.com/s/WE1w5gE)  
+## 🌍 Projects & Profiles
+
+🔹 **GitHub Portfolio:**  
+💻 [github.com/OsSyLab](https://github.com/OsSyLab)
+
+🔹 **Fiverr Services:**  
+🪙 [fiverr.com/s/WE1r5gE](https://fiverr.com/s/WE1r5gE)
+
+🔹 **Upwork Profile:**  
+🌐 [upwork.com/freelancers/~0184d2c29264d3dcf2](https://www.upwork.com/freelancers/~0184d2c29264d3dcf2)
+
+🔹 **LinkedIn:**  
+💼 [linkedin.com/in/osmanuluhan](https://www.linkedin.com/in/osmanuluhan)
+
+🔹 **X (Twitter):**  
+🧠 [@OsSy_Lab](https://x.com/OsSy_Lab)
+
 📩 osmanuluhan@hotmail.com  
 
 ---
