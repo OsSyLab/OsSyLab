@@ -3,7 +3,7 @@
 </p>
 
 
-# 👋 Hi, I'm Osman Uluhan (OsSy)
+# 👋 Hi, I'm Osman Uluhan 
 
 **💡 Data Engineer | Freelance Excel & Python Automation Specialist**
 <p align="center">
