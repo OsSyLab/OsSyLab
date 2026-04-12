@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Osman Uluhan 
 
-**💡 Data Engineer | Freelance Excel & Python Automation Specialist**
+**💡 Senior Data Analyst | Marketing Data Analyst | Excel & Python & SQL | Tableau | Automation & n8n & Dashboards  | Civil Engineer**
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white">
