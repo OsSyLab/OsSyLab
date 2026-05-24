@@ -28,21 +28,11 @@ I'm passionate about creating automation tools, Excel dashboards, and Python-bas
 ### 🌍 Connect With Me
 ## 🌍 Projects & Profiles
 
-🔹 **GitHub Portfolio:**  
-💻 [github.com/OsSyLab](https://github.com/OsSyLab)
-
-🔹 **Fiverr Services:**  
-🪙 [fiverr.com/s/WE1r5gE](https://fiverr.com/s/WE1r5gE)
-
-🔹 **Upwork Profile:**  
-🌐 [upwork.com/freelancers/~0184d2c29264d3dcf2](https://www.upwork.com/freelancers/~0184d2c29264d3dcf2)
-
 🔹 **LinkedIn:**  
 💼 [linkedin.com/in/osmanuluhan](https://www.linkedin.com/in/osman-nuri-uluhan-9a950a390)
 
-🔹 **X (Twitter):**  
-🧠 [@OsSy_Lab](https://x.com/OsSy_Lab)
-
+📩 ossydatalab@gmail.com  
+📩 osmanuluhan@gmail.com  
 📩 osmanuluhan@hotmail.com  
 
 ---
@@ -50,8 +40,7 @@ I'm passionate about creating automation tools, Excel dashboards, and Python-bas
 ### 📁 Featured Projects
 - 📘 [Excel VBA Macros Collection](https://github.com/OsSyLab/Excel-VBA-Macros) — 20 ready-to-use Excel automation tools
 - 🐍 [Excel-Python Integration Toolkit](https://github.com/OsSyLab/Python-Automation-Tools) – upcoming hybrid automation examples.
-- [📄 Automatic Report Generator](https://github.com/OsSyLab/Excel-VBA-Macros/tree/main/Automatic_Report_Generator) – one-click PDF & Excel report automation tool
-- 🧮 Python Data Automation Scripts *(coming soon...)*  
+- [📄 Automatic Report Generator](https://github.com/OsSyLab/Excel-VBA-Macros/tree/main/Automatic_Report_Generator) – one-click PDF & Excel report 
 
 ---
 
